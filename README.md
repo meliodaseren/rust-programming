@@ -1,4 +1,4 @@
-# Rust
+# Rust tutorial
 
 ## Installation
 
@@ -39,3 +39,9 @@ https://www.rust-lang.org/zh-CN/
 https://kaisery.github.io/trpl-zh-cn/
 
 http://askeing.github.io/rust-book/
+
+## IDE
+
+IntelliJ Rust plugin
+
+https://intellij-rust.github.io/
