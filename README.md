@@ -1,13 +1,8 @@
 # Rust tutorial
 
-## Installation
+rustc 1.55.0
 
-### Linux or macOS
-
-```shell
-$ curl https://sh.rustup.rs -sSf | 
-$ source $HOME/.cargo/env
-```
+cargo 1.55.0
 
 ### Update
 
@@ -19,12 +14,6 @@ $ rustup update
 
 ```shell
 $ rustup self uninstall
-```
-
-### Troubleshooting
-
-```shell
-$ rustc --version
 ```
 
 ## Compile
@@ -39,9 +28,3 @@ https://www.rust-lang.org/zh-CN/
 https://kaisery.github.io/trpl-zh-cn/
 
 http://askeing.github.io/rust-book/
-
-## IDE
-
-IntelliJ Rust plugin
-
-https://intellij-rust.github.io/
