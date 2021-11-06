@@ -13,8 +13,8 @@
             },
             "args": [
                 "${file}",
-                // ";",
-                // "${fileBasename}.exe"
+                ";",
+                "${fileWorkspaceFolder}/${fileBasenameNoExtension}.exe"
             ],
             "promptOnClose": false,
             "presentation": {
